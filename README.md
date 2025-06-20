@@ -15,7 +15,7 @@ Artificial Neural Network (ANN)
 ## Key Results
 Model	R² Score
 Ridge Regression	88.98% 
-ANN (Neural Network)	84.50%
+
 ## Technologies Used
 Python
 
